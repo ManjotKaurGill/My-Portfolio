@@ -22,11 +22,10 @@ This project showcases my background, technical skills, featured projects, certi
 
 ##  Technologies Used
 
-- **React.js** – Frontend library
-- **React-Bootstrap** – UI components and layout
-- **AOS (Animate on Scroll)** – Scroll-based animation
-- **React-Typical** – Typing animation in hero section
-- **Vercel** – Deployment platform
+
+- **Frontend:** React.js, Bootstrap, React Icons
+- **Animations:** AOS (Animate on Scroll)
+- **Deployment:** Vercel
 
 ---
 
@@ -44,7 +43,8 @@ npm install
 
 # Start the development server
 npm start
-bash ```
+
+```
 
 Now open http://localhost:3000 in your browser to see the portfolio.
 
