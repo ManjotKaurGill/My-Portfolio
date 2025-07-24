@@ -44,6 +44,8 @@ npm install
 
 # Start the development server
 npm start
+bash ```
+
 Now open http://localhost:3000 in your browser to see the portfolio.
 
 License
